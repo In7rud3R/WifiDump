@@ -4,4 +4,4 @@ Automatically recovers all wireless SSID's with passwords/keys (WEP/WPA/WPA2) st
 
 # Usage
 
-wifidunp -d -o output.txt
+wifidump -d -o output.txt
